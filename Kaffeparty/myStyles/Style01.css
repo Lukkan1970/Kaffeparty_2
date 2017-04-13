@@ -1,0 +1,45 @@
+﻿body {
+   
+    background-image:url(../images/Allneed5.jpg);
+    background-origin:padding-box;
+   
+}
+
+h1{
+    
+    text-align:left;
+    text-shadow:5px 3px 2px #333;
+}
+
+
+header, footer {
+    background-color:chocolate;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    border: 0px;
+    
+
+}
+
+
+div section {
+    border: 1px solid chocolate;
+    border-radius: 5px;
+}
+
+h4 {
+    text-shadow:5px 3px 2px #333;
+}
+
+nav.navbar.navbar-inverse {
+    background-color:saddlebrown;
+   border-radius:0px;
+   
+}
+
+nav.navbar.navbar .active {
+    color:yellow;
+    background-color:red;
+}
